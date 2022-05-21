@@ -62,7 +62,7 @@ global.veloriy = fs.readFileSync('./image/chika.mp4')
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.BgWelcLeav = 'https://telegra.ph/file/14e6e405397e283dac8ec.jpg'
+global.BgWelcLeav = 'https://telegra.ph/file/e0a733304c1972d3efd27.jpg'
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
@@ -87,7 +87,7 @@ admin: '_Lu admin tod?!_',
 botAdmin: '_Jadi in admin dulu bot nya tod_',
 owner: '_Fitur Khusus Jaka tersayang_',
 group: '_Fitur Hanya bisa di grup tod!_',
-private: '_Fitur Hanya bisa di pribadi cjat tod!_',
+private: '_Fitur Hanya bisa di pribadi chat tod!_',
 bot: '_Fitur Khusus Penguna Bot Ya Tod_',
 wait: '_Loanjing..._',
 error: '_Error ajg, kalo ga mo error donasi!_',
