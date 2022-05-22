@@ -22,26 +22,26 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285785694474','6281335334848','6281335334848'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6285785694474'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6285785694474' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285713041886','6285713041886','6285713041886'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285713041886'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285713041886' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Jaka' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Alyrine-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.ownername = 'Fachri' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'FBotz-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Jaka' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UC7jyjV6kcG6qTV_VcJtJzzA'
-global.ig = 'https://instagram.com/zetwo_botz'
+global.youtube = 'https://youtube.com/c/SaefulFahri'
+global.ig = 'https://instagram.com/sfdesign_id'
 global.mygc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'jkasmprn@gmail.com'
+global.myweb = 'website.saefulfachri.repl.co'
+global.email = 'fahrisaeful718@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Alyrine-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '© FBotz-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.author = 'Jaka' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
