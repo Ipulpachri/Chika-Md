@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285713041886','6285713041886','6285713041886'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6285713041886'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6285713041886' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285738826094','6285738826094','6285738826094'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285738826094'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285738826094' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Fachri' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'FBotz-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Jaka' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Dava' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'DavBotz-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ᴹᴿ᭄Dav-Mdོン' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/SaefulFahri'
 global.ig = 'https://instagram.com/sfdesign_id'
 global.mygc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
-global.myweb = 'website.saefulfachri.repl.co'
+global.myweb = 'nh.co.id/fachri'
 global.email = 'fahrisaeful718@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© FBotz-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Jaka' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© ᴹᴿ᭄Dav-Mdོン' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'DavaBotz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -82,15 +82,15 @@ global.sp = '⭔'
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
-success: '_Udh tod._',
-admin: '_Lu admin tod?!_',
-botAdmin: '_Jadi in admin dulu bot nya tod_',
-owner: '_Fitur Khusus Jaka tersayang_',
-group: '_Fitur Hanya bisa di grup tod!_',
-private: '_Fitur Hanya bisa di pribadi chat tod!_',
-bot: '_Fitur Khusus Penguna Bot Ya Tod_',
-wait: '_Loanjing..._',
-error: '_Error ajg, kalo ga mo error donasi!_',
+success: '_Udh Kak._',
+admin: '_Lu admin Kak?!_',
+botAdmin: '_Jadi in admin dulu bot nya kak_',
+owner: '_Fitur Khusus Dava tersayang_',
+group: '_Fitur Hanya bisa di grup Kak!_',
+private: '_Fitur Hanya bisa di pribadi chat Kak!_',
+bot: '_Fitur Khusus Penguna Bot Ya Kak_',
+wait: '_Loading..._',
+error: '_Error kak, kalo ga mo error donasi ya kak!_',
 endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
 }
 
