@@ -22,12 +22,12 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285738826094','6285738826094','6285738826094'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6285738826094'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6285738826094' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285713041886','6285713041886','6285713041886'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285713041886'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285713041886' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Dava' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Fachri' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'FachriBot-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'ᴹᴿ᭄FachriBot-Mdོ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
@@ -42,7 +42,7 @@ global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© ᴹᴿ᭄FachriBot-Mdོ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'DavaBotz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.author = 'FachriBot' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
