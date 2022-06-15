@@ -28,20 +28,20 @@ global.ownernomer = '6285738826094' //ubah jadi nomor mu, note tanda ' gausah di
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Dava' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'DavBotz-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'ᴹᴿ᭄Dav-Mdོン' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'FachriBot-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ᴹᴿ᭄FachriBot-Mdོ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/SaefulFahri'
 global.ig = 'https://instagram.com/sfdesign_id'
-global.mygc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
+global.mygc = 'https://chat.whatsapp.com/GimZmhA2XTQFfPXk4XMrv6'
 global.myweb = 'nh.co.id/fachri'
 global.email = 'fahrisaeful718@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© ᴹᴿ᭄Dav-Mdོン' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '© ᴹᴿ᭄FachriBot-Mdོ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.author = 'DavaBotz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
