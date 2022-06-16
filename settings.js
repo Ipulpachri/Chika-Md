@@ -62,7 +62,7 @@ global.veloriy = fs.readFileSync('./image/chika.mp4')
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.BgWelcLeav = 'https://telegra.ph/file/e0a733304c1972d3efd27.jpg'
+global.BgWelcLeav = 'https://telegra.ph/file/b87f4a8f68fb59ce2c59e.jpg'
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
