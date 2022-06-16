@@ -961,5 +961,6 @@ exports.thanksto = () => {
   *≻* Sanzy
   *≻* Verdi
   *≻* Jaka
+  *>* Fachri
 `
 }
